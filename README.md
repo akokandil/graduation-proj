@@ -1,2 +1,0 @@
-# Supplement Store
-"# graduation-proj" 
